@@ -6,8 +6,9 @@
 @desc: 最长字符串
 """
 
+
 class Solution:
-    def longest_words(self,l1):
-        tmp=[]
+    def longest_words(self, l1):
+        tmp = []
         for item in l1:
             pass
